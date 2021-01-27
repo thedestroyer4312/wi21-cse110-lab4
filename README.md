@@ -1,2 +1,2 @@
 Trevor Tsai
-t2tsai@ucsd.edus
+t2tsai@ucsd.edu
